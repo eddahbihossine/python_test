@@ -17,8 +17,6 @@ for permutation in permutations:
         print(f"Number of instructions: {num_instructions}")
         print("--------------------")
         l = l + 1
-    else:
-        print ("all good")
 
     
     if l == 0:
